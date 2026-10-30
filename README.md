@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lazaros Kourtoglou 👋
 
-<!--
-**lazakour/lazakour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm an IT graduate interested in software development
+and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Skills
+- Python
+- PyQt5
+- C++
+- Java
+- SQL
+- HTML & CSS
+-Cisco and Cyber Security
+-Machine Learning with python
+
+### 🚀 Projects
+Coming soon! I'm currently working on personal
+projects to expand my programming skills.
+
+### 📫 Contact
+- GitHub: My GitHub Profile:(https://github.com/lazakour)
