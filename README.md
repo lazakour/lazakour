@@ -17,8 +17,7 @@ and building practical applications.
 
 
 ### 🚀 Projects
-Coming soon! I'm currently working on personal
-projects to expand my programming skills.
+PyQt5 Stopwatch | Python Slot Machine | PyQt5 Weather App
 
 ### 📫 Contact
 - GitHub: My GitHub Profile:(https://github.com/lazakour)
