@@ -12,8 +12,9 @@ and building practical applications.
 - Java
 - SQL
 - HTML & CSS
--Cisco and Cyber Security
--Machine Learning with python
+- Cisco and Cyber Security
+- Machine Learning with python
+
 
 ### 🚀 Projects
 Coming soon! I'm currently working on personal
